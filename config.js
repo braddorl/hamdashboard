@@ -384,7 +384,7 @@ const aIMG = [
 	"", // Risks
 	"https://www.weather.gov/images/akq/ghwo/SevereThunderstormsDay1.jpg",
 	"https://www.weather.gov/images/akq/ghwo/ThunderstormWindDay1.jpg",
-	"https://www.weather.gov/images/AKQ/ghwo/TornadoDay1.jpg",
+	"https://www.weather.gov/images/akq/ghwo/TornadoDay1.jpg",
 	"https://www.weather.gov/images/akq/ghwo/LightningDay1.jpg",
 	"https://www.weather.gov/images/akq/ghwo/ExcessiveRainfallDay1.jpg",
 	"https://www.weather.gov/images/akq/ghwo/ExcessiveHeatDay1.jpg",
