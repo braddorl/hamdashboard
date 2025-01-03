@@ -20,7 +20,15 @@ const aURL = [
   ["add10d", "Back", "#", "1","R"],
   // ["ff9100", "Refresh", "#", "1"],
   ["0dd1a7", "Help", "#", "1"],
+ 
   [
+	// "9C33FF",
+	"4B6BB4",
+	"W4HPT",
+	"https://w4hpt.net/",
+	"1",
+  ],
+[
 	"FF000F",
 	"Wx Alerts",
 	"https://alerts.weather.gov/search?zone=VAZ525",
