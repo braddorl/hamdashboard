@@ -94,8 +94,8 @@ const aURL = [
 	"AQI",
 	//"https://ca.dep.state.fl.us/mapdirect/?map=9e94c40966164a31b162557510e7f0cc",
 //	"https://gispub.epa.gov/airnow/?forecastcontours=forecasttomorrow&tab=loops&showlegend=yes&xmin=-8741257.049518468&xmax=-8271627.947734165&ymin=4337223.276180024&ymax=4555068.80679286",
-	"https://gispub.epa.gov/airnow/?tab=loops&contours=ozonepm&xmin=-9226066.634327892&xmax=-8756437.532543994&ymin=3192659.3491188874&ymax=3364184.04059074&monitors=ozonepm",   
-   "1",
+	"https://gispub.epa.gov/airnow/?tab=loops&contours=ozonepm&monitors=ozonepm&xmin=-8717760.396231744&xmax=-8248131.294447442&ymin=4314066.991090603&ymax=4533135.514156003",
+	"1",
   ],
 //[
 //	"2196F3",
